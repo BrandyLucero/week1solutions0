@@ -25,7 +25,6 @@ namespace FunctionPractice
 
        
 
-
             int myAgeDoubled = DoubleIt(5);
             Console.WriteLine(myAgeDoubled);
 
@@ -48,7 +47,7 @@ namespace FunctionPractice
         //Functions go below here
         static void HelloWorld()
         {
-            Console.WriteLine("Hello Wworld!");
+            Console.WriteLine("Hello World!");
 
         }
         static void Greet(string name)

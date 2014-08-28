@@ -1,0 +1,6 @@
+C:\Users\Technologist SP\Documents\GitHub\week1solutions\LoopPractice\LoopPractice\bin\Debug\LoopPractice.exe.config
+C:\Users\Technologist SP\Documents\GitHub\week1solutions\LoopPractice\LoopPractice\obj\Debug\LoopPractice.csprojResolveAssemblyReference.cache
+C:\Users\Technologist SP\Documents\GitHub\week1solutions\LoopPractice\LoopPractice\bin\Debug\LoopPractice.exe
+C:\Users\Technologist SP\Documents\GitHub\week1solutions\LoopPractice\LoopPractice\bin\Debug\LoopPractice.pdb
+C:\Users\Technologist SP\Documents\GitHub\week1solutions\LoopPractice\LoopPractice\obj\Debug\LoopPractice.exe
+C:\Users\Technologist SP\Documents\GitHub\week1solutions\LoopPractice\LoopPractice\obj\Debug\LoopPractice.pdb
