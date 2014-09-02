@@ -83,7 +83,7 @@ namespace WeekOneReview
         // declare a new list of strings
         List<string> sportsList = new List<string>() { "Baseball", "Basketball", "Football" };
 
-    //print out the contents of the sportsList using a for loop in asending order
+       //print out the contents of the sportsList using a for loop in asending order
             for (int i = 0; i < sportsList.Count; i++)
 			{
 			 
