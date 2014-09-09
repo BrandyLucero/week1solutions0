@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace FizzBuzz
-{
+{   
     class Program
     {
         static void Main(string[] args)
@@ -29,9 +29,7 @@ namespace FizzBuzz
                 {
         // is # num div by 5 & 3
 
-        Console.WriteLine("FizzBuzz");
-
-    }
+        Console.WriteLine("FizzBuzz"); }
 
             else if ( number % 5 == 0)
         {

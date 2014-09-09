@@ -12,7 +12,7 @@ namespace LoopingOverStrings
         {
             FindALetter("e", "the united states of america");
             FindAWord("and", "I'm really happy its not raining today, because rain is for the birds and the jerks. and and and ");
-
+             
             //keep the console window open 
             Console.ReadKey();
 
